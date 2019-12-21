@@ -34,6 +34,7 @@ No.
 ## Usage
 
 Just use it!  No python dependencies, and it's short enough.
+Written with Python 3.5 in mind, but I'm actually running it on 3.7.
 You could probably write it yourself, but I thought
 it'd be nice to share the few lines.
 
