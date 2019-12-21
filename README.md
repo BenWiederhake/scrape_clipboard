@@ -4,17 +4,17 @@
 
 Perfect for when you need to copy *lots* of stuff, and usually have to do this:
 
-*select* *copy* *alt-tab* *paste* *alt-tab*  
-*select* *copy* *alt-tab* *paste* *alt-tab*
-*select* *copy* *alt-tab* *paste* *alt-tab*  
-*select* *copy* *alt-tab* *paste* *alt-tab*  
-*select* *copy* *alt-tab* *paste* *alt-tab*  
+*select*, *copy*, *alt-tab*, *paste*, *alt-tab*,  
+*select*, *copy*, *alt-tab*, *paste*, *alt-tab*,  
+*select*, *copy*, *alt-tab*, *paste*, *alt-tab*,  
+*select*, *copy*, *alt-tab*, *paste*, *alt-tab*,  
+*select*, *copy*, *alt-tab*, *paste*, *alt-tab*,  
 ...
 
 Because with this tool you instead do this:
 
-*start*  
-*select* *copy* *select* *copy* *select* *copy* *select* *copy* *select* *copy* ...
+*start program*,  
+*select*, *copy*, *select*, *copy*, *select*, *copy*, *select*, *copy*, *select*, *copy*, ...
 
 This is not designed to be a clipboard-logger,
 although it can probably be repurposed into one.
