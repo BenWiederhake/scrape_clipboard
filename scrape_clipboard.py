@@ -33,7 +33,7 @@ def run():
         while True:
             current = get_clipboard()
             if last != current:
-                print(PRINT_FORMAT.format(current))
+                print(PRINT_FORMAT.format(current), flush=True)
                 last = current
             time.sleep(POLL_TIME_SECONDS)
     except KeyboardInterrupt:
